@@ -1,7 +1,8 @@
 opencv-python
 numpy
-face_recognition
+cmake
 dlib 
+face_recognition
 pillow
 pillow_heif
 streamlit
