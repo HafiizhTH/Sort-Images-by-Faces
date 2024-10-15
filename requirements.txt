@@ -1,0 +1,7 @@
+glob
+cv2
+numpy
+face_recognition
+pillow
+pillow_heif
+streamlit
