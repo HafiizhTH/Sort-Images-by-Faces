@@ -1,4 +1,3 @@
-glob
 cv2
 numpy
 face_recognition
