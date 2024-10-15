@@ -1,7 +1,5 @@
 opencv-python
 numpy
-cmake
-dlib 
 face_recognition
 pillow
 pillow_heif
